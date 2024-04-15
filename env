@@ -34,7 +34,7 @@
 
 # --------------------------------------------------------------------
 
-app.baseURL = '<http://wa-fonnte-test.test/>'
+app.baseURL = 'http://wa-fonnte-test.test/'
 
 # If you have trouble with `.`, you could also use `_`
 
@@ -110,6 +110,6 @@ database.default.port = 3306
 
 # --------------------------------------------------------------------
 
-whatsapp.api.url = '<https://api.fonnte.com>'
-whatsapp.api.device_token = '9EMma!W@bVDb+SCPiZB_'
-whatsapp.api.account_token = '4!RK-8BUXhS+@UaA7b3JGZM1Ys15HsQSVWZd#BtV1'
+whatsapp.api.url = 'xxx'
+whatsapp.api.device_token = 'xxx'
+whatsapp.api.account_token = 'xxx'
